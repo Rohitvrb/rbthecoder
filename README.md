@@ -1,3 +1,4 @@
 # rbthecoder
-# This main directory doesn't contain any project code.
-# Please change the directory to view my projects' source codes.
+# webpage on Independence day og India
+# HTML and CSS
+# enjoy the code!
